@@ -1,0 +1,8 @@
+Nowe pole mowiace o tym czy wydatek był duży
+	money > 1000	BIG 				"Big transaction"
+	moeny < 1000	SMALL				"Small transaction"
+
+
+
+Raport ogólny:
+Grupa po kategoriach i suma wydatków

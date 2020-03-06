@@ -1,0 +1,3002 @@
+[
+  {
+    "country": "Poland",
+    "credit_card": "china-unionpay",
+    "money": "$1011.95",
+    "category": "Computers"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2029.14",
+    "category": "Books"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "mastercard",
+    "money": "$2587.84",
+    "category": "Baby"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "diners-club-carte-blanche",
+    "money": "$1304.36",
+    "category": "Baby"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "maestro",
+    "money": "$491.52",
+    "category": "Beauty"
+  },
+  {
+    "country": "United Kingdom",
+    "credit_card": "jcb",
+    "money": "$244.68",
+    "category": "Shoes"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$930.54",
+    "category": "Shoes"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "americanexpress",
+    "money": "$1200.85",
+    "category": ""
+  },
+  {
+    "country": "Canada",
+    "credit_card": "bankcard",
+    "money": "$353.60",
+    "category": "Grocery"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2412.04",
+    "category": "Toys"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$1052.68",
+    "category": "Outdoors"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "maestro",
+    "money": "$2858.88",
+    "category": "Tools"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "americanexpress",
+    "money": "$1194.76",
+    "category": "Movies"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "visa-electron",
+    "money": "$3.40",
+    "category": "Toys"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "instapayment",
+    "money": "$2602.85",
+    "category": ""
+  },
+  {
+    "country": "Poland",
+    "credit_card": "diners-club-enroute",
+    "money": "$1362.80",
+    "category": "Sports"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "americanexpress",
+    "money": "$1624.11",
+    "category": "Jewelery"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$1930.81",
+    "category": "Outdoors"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$1759.88",
+    "category": "Music"
+  },
+  {
+    "country": "United Kingdom",
+    "credit_card": "jcb",
+    "money": "$1137.49",
+    "category": "Books"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "diners-club-enroute",
+    "money": "$1279.05",
+    "category": "Toys"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$3200.93",
+    "category": "Movies"
+  },
+  {
+    "country": "United Kingdom",
+    "credit_card": "jcb",
+    "money": "$259.19",
+    "category": "Garden"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$1815.17",
+    "category": "Tools"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$1677.55",
+    "category": "Electronics"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "visa-electron",
+    "money": "$2284.21",
+    "category": "Tools"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "maestro",
+    "money": "$1811.84",
+    "category": "Health"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "americanexpress",
+    "money": "$2375.67",
+    "category": "Electronics"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "diners-club-carte-blanche",
+    "money": "$2682.95",
+    "category": "Home"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "diners-club-enroute",
+    "money": "$1704.84",
+    "category": "Outdoors"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "china-unionpay",
+    "money": "$2755.80",
+    "category": "Home"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$229.03",
+    "category": "Beauty"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "instapayment",
+    "money": "$3107.31",
+    "category": "Tools"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "switch",
+    "money": "$564.76",
+    "category": "Movies"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$950.20",
+    "category": "Movies"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "diners-club-carte-blanche",
+    "money": "$56.77",
+    "category": "Garden"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$1646.51",
+    "category": "Books"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$2583.32",
+    "category": "Tools"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "visa-electron",
+    "money": "$1003.60",
+    "category": ""
+  },
+  {
+    "country": "United Kingdom",
+    "credit_card": "mastercard",
+    "money": "$980.59",
+    "category": ""
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$1998.68",
+    "category": "Industrial"
+  },
+  {
+    "country": "Germany",
+    "credit_card": "jcb",
+    "money": "$680.81",
+    "category": "Beauty"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "diners-club-enroute",
+    "money": "$2928.44",
+    "category": "Games"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "switch",
+    "money": "$1929.49",
+    "category": "Books"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$8.98",
+    "category": "Computers"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "diners-club-international",
+    "money": "$897.50",
+    "category": "Automotive"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$1282.50",
+    "category": "Grocery"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "china-unionpay",
+    "money": "$1645.20",
+    "category": "Movies"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$328.18",
+    "category": "Sports"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "china-unionpay",
+    "money": "$144.42",
+    "category": "Kids"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "switch",
+    "money": "$58.87",
+    "category": ""
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$1562.98",
+    "category": ""
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$270.80",
+    "category": "Garden"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "solo",
+    "money": "$88.60",
+    "category": "Electronics"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$1950.34",
+    "category": "Baby"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$1601.36",
+    "category": ""
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2292.46",
+    "category": ""
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$243.57",
+    "category": "Beauty"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "china-unionpay",
+    "money": "$2962.33",
+    "category": "Shoes"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$2286.29",
+    "category": ""
+  },
+  {
+    "country": "Poland",
+    "credit_card": "diners-club-enroute",
+    "money": "$393.96",
+    "category": "Industrial"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "china-unionpay",
+    "money": "$1038.53",
+    "category": "Health"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "laser",
+    "money": "$55.45",
+    "category": "Kids"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "mastercard",
+    "money": "$2306.75",
+    "category": "Grocery"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$1724.96",
+    "category": "Grocery"
+  },
+  {
+    "country": "Germany",
+    "credit_card": "visa-electron",
+    "money": "$2654.30",
+    "category": "Computers"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2062.26",
+    "category": "Beauty"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$1393.91",
+    "category": "Computers"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$748.24",
+    "category": "Kids"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2815.33",
+    "category": "Home"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "diners-club-enroute",
+    "money": "$2130.04",
+    "category": "Shoes"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2350.95",
+    "category": "Home"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$1393.60",
+    "category": "Computers"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "visa",
+    "money": "$1435.32",
+    "category": "Computers"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2008.24",
+    "category": "Automotive"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$1389.75",
+    "category": "Industrial"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "china-unionpay",
+    "money": "$1738.71",
+    "category": "Garden"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "switch",
+    "money": "$221.24",
+    "category": "Books"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$1215.98",
+    "category": "Garden"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "americanexpress",
+    "money": "$2574.07",
+    "category": "Jewelery"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2016.01",
+    "category": "Beauty"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "mastercard",
+    "money": "$915.70",
+    "category": "Kids"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "visa-electron",
+    "money": "$2890.61",
+    "category": "Industrial"
+  },
+  {
+    "country": "Germany",
+    "credit_card": "jcb",
+    "money": "$3468.47",
+    "category": "Garden"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "diners-club-enroute",
+    "money": "$3394.70",
+    "category": "Tools"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$1412.42",
+    "category": "Grocery"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "bankcard",
+    "money": "$408.22",
+    "category": "Beauty"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$3303.28",
+    "category": "Beauty"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "diners-club-carte-blanche",
+    "money": "$3376.75",
+    "category": "Games"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "diners-club-enroute",
+    "money": "$616.48",
+    "category": "Clothing"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "china-unionpay",
+    "money": "$3404.36",
+    "category": "Industrial"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2202.27",
+    "category": "Electronics"
+  },
+  {
+    "country": "Germany",
+    "credit_card": "jcb",
+    "money": "$20.51",
+    "category": "Computers"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "bankcard",
+    "money": "$865.33",
+    "category": "Clothing"
+  },
+  {
+    "country": "United Kingdom",
+    "credit_card": "maestro",
+    "money": "$2688.51",
+    "category": ""
+  },
+  {
+    "country": "Poland",
+    "credit_card": "diners-club-carte-blanche",
+    "money": "$1715.06",
+    "category": "Books"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$1602.67",
+    "category": "Home"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$1803.42",
+    "category": ""
+  },
+  {
+    "country": "Canada",
+    "credit_card": "laser",
+    "money": "$2741.01",
+    "category": "Shoes"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$92.21",
+    "category": "Music"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$568.16",
+    "category": "Clothing"
+  },
+  {
+    "country": "United Kingdom",
+    "credit_card": "jcb",
+    "money": "$2258.93",
+    "category": "Tools"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "bankcard",
+    "money": "$2367.71",
+    "category": "Baby"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "china-unionpay",
+    "money": "$2889.35",
+    "category": "Health"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$1691.63",
+    "category": "Books"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$1864.87",
+    "category": "Books"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "china-unionpay",
+    "money": "$2730.40",
+    "category": "Tools"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "visa-electron",
+    "money": "$2015.65",
+    "category": "Beauty"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2028.41",
+    "category": ""
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2308.77",
+    "category": "Shoes"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2774.04",
+    "category": "Toys"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "maestro",
+    "money": "$2564.68",
+    "category": "Home"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "maestro",
+    "money": "$2079.22",
+    "category": "Beauty"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "diners-club-us-ca",
+    "money": "$652.71",
+    "category": "Music"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "visa",
+    "money": "$3275.28",
+    "category": ""
+  },
+  {
+    "country": "Germany",
+    "credit_card": "diners-club-enroute",
+    "money": "$1908.17",
+    "category": "Jewelery"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "bankcard",
+    "money": "$1487.06",
+    "category": "Jewelery"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$556.93",
+    "category": "Movies"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "diners-club-enroute",
+    "money": "$2625.41",
+    "category": "Toys"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "diners-club-enroute",
+    "money": "$844.37",
+    "category": "Baby"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "visa-electron",
+    "money": "$1740.27",
+    "category": "Baby"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "diners-club-international",
+    "money": "$3370.10",
+    "category": "Sports"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "maestro",
+    "money": "$1204.03",
+    "category": ""
+  },
+  {
+    "country": "Poland",
+    "credit_card": "maestro",
+    "money": "$2669.97",
+    "category": "Music"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "mastercard",
+    "money": "$3054.58",
+    "category": "Toys"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "diners-club-carte-blanche",
+    "money": "$612.17",
+    "category": ""
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$2621.34",
+    "category": ""
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$1611.93",
+    "category": "Baby"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "diners-club-carte-blanche",
+    "money": "$873.16",
+    "category": "Shoes"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "diners-club-enroute",
+    "money": "$1851.63",
+    "category": "Automotive"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "visa-electron",
+    "money": "$2708.88",
+    "category": "Baby"
+  },
+  {
+    "country": "Germany",
+    "credit_card": "americanexpress",
+    "money": "$1273.34",
+    "category": "Electronics"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$1700.92",
+    "category": "Automotive"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "diners-club-international",
+    "money": "$3270.52",
+    "category": "Games"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "mastercard",
+    "money": "$2996.36",
+    "category": "Grocery"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "mastercard",
+    "money": "$405.01",
+    "category": "Kids"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "maestro",
+    "money": "$900.82",
+    "category": "Home"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$3390.99",
+    "category": ""
+  },
+  {
+    "country": "Poland",
+    "credit_card": "switch",
+    "money": "$2619.53",
+    "category": "Music"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "diners-club-carte-blanche",
+    "money": "$1762.58",
+    "category": "Electronics"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "americanexpress",
+    "money": "$697.00",
+    "category": "Health"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$1159.86",
+    "category": "Beauty"
+  },
+  {
+    "country": "Germany",
+    "credit_card": "jcb",
+    "money": "$2339.04",
+    "category": "Clothing"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "switch",
+    "money": "$2425.67",
+    "category": "Books"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2394.00",
+    "category": "Music"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "bankcard",
+    "money": "$1641.06",
+    "category": ""
+  },
+  {
+    "country": "Canada",
+    "credit_card": "instapayment",
+    "money": "$1594.85",
+    "category": "Health"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$2390.47",
+    "category": "Kids"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "visa",
+    "money": "$3385.84",
+    "category": "Beauty"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "maestro",
+    "money": "$3170.94",
+    "category": "Home"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "china-unionpay",
+    "money": "$1941.15",
+    "category": "Computers"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$529.46",
+    "category": "Games"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$1137.26",
+    "category": "Automotive"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "maestro",
+    "money": "$3459.74",
+    "category": "Industrial"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$384.52",
+    "category": "Home"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$78.19",
+    "category": "Books"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "instapayment",
+    "money": "$315.70",
+    "category": "Music"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$1688.74",
+    "category": "Shoes"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$1341.65",
+    "category": "Home"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "mastercard",
+    "money": "$306.65",
+    "category": "Home"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$2551.87",
+    "category": "Movies"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "maestro",
+    "money": "$36.06",
+    "category": "Industrial"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$13.57",
+    "category": "Shoes"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2125.65",
+    "category": "Music"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "switch",
+    "money": "$1926.39",
+    "category": "Beauty"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "switch",
+    "money": "$253.83",
+    "category": "Toys"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "bankcard",
+    "money": "$3258.79",
+    "category": "Music"
+  },
+  {
+    "country": "Germany",
+    "credit_card": "jcb",
+    "money": "$1199.37",
+    "category": "Home"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "mastercard",
+    "money": "$3483.10",
+    "category": ""
+  },
+  {
+    "country": "Poland",
+    "credit_card": "bankcard",
+    "money": "$1501.46",
+    "category": "Computers"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "visa-electron",
+    "money": "$3130.73",
+    "category": "Outdoors"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "maestro",
+    "money": "$247.72",
+    "category": "Baby"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "visa-electron",
+    "money": "$3160.05",
+    "category": "Industrial"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$770.98",
+    "category": ""
+  },
+  {
+    "country": "Poland",
+    "credit_card": "switch",
+    "money": "$2557.37",
+    "category": "Automotive"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "switch",
+    "money": "$443.40",
+    "category": "Beauty"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$868.28",
+    "category": "Health"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$155.60",
+    "category": "Games"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "maestro",
+    "money": "$924.36",
+    "category": "Baby"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "americanexpress",
+    "money": "$2209.54",
+    "category": "Outdoors"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "mastercard",
+    "money": "$506.57",
+    "category": "Clothing"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "china-unionpay",
+    "money": "$2922.03",
+    "category": "Garden"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "visa-electron",
+    "money": "$2802.90",
+    "category": "Movies"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "laser",
+    "money": "$1187.99",
+    "category": "Clothing"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "visa-electron",
+    "money": "$655.71",
+    "category": ""
+  },
+  {
+    "country": "Poland",
+    "credit_card": "visa-electron",
+    "money": "$1813.84",
+    "category": "Automotive"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$215.00",
+    "category": "Tools"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "diners-club-carte-blanche",
+    "money": "$2474.74",
+    "category": "Sports"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "americanexpress",
+    "money": "$290.61",
+    "category": "Beauty"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "diners-club-carte-blanche",
+    "money": "$160.52",
+    "category": "Beauty"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2263.29",
+    "category": "Beauty"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$1854.64",
+    "category": "Garden"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2459.57",
+    "category": ""
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$859.12",
+    "category": "Music"
+  },
+  {
+    "country": "Germany",
+    "credit_card": "mastercard",
+    "money": "$2314.17",
+    "category": "Clothing"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "mastercard",
+    "money": "$2317.22",
+    "category": ""
+  },
+  {
+    "country": "Poland",
+    "credit_card": "maestro",
+    "money": "$84.51",
+    "category": "Sports"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "visa-electron",
+    "money": "$332.72",
+    "category": "Kids"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "switch",
+    "money": "$1950.63",
+    "category": "Sports"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "americanexpress",
+    "money": "$3142.25",
+    "category": "Sports"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "switch",
+    "money": "$3037.21",
+    "category": "Jewelery"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "maestro",
+    "money": "$951.59",
+    "category": "Clothing"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "bankcard",
+    "money": "$2341.33",
+    "category": "Sports"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "visa-electron",
+    "money": "$1806.27",
+    "category": "Books"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$835.84",
+    "category": "Garden"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2161.89",
+    "category": "Games"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "instapayment",
+    "money": "$441.40",
+    "category": "Shoes"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "americanexpress",
+    "money": "$894.82",
+    "category": "Baby"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "solo",
+    "money": "$1196.08",
+    "category": "Tools"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "mastercard",
+    "money": "$1510.81",
+    "category": ""
+  },
+  {
+    "country": "Poland",
+    "credit_card": "visa",
+    "money": "$2628.71",
+    "category": "Health"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "visa-electron",
+    "money": "$2834.51",
+    "category": "Tools"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "diners-club-international",
+    "money": "$634.31",
+    "category": "Toys"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "mastercard",
+    "money": "$1210.24",
+    "category": "Beauty"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "instapayment",
+    "money": "$1769.01",
+    "category": "Garden"
+  },
+  {
+    "country": "Germany",
+    "credit_card": "switch",
+    "money": "$951.98",
+    "category": "Games"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "china-unionpay",
+    "money": "$2341.38",
+    "category": "Health"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "diners-club-carte-blanche",
+    "money": "$227.57",
+    "category": "Outdoors"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "instapayment",
+    "money": "$1472.52",
+    "category": "Beauty"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "diners-club-carte-blanche",
+    "money": "$2185.11",
+    "category": "Sports"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2371.19",
+    "category": ""
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$1438.65",
+    "category": "Games"
+  },
+  {
+    "country": "Germany",
+    "credit_card": "mastercard",
+    "money": "$479.05",
+    "category": "Games"
+  },
+  {
+    "country": "United Kingdom",
+    "credit_card": "instapayment",
+    "money": "$1382.28",
+    "category": "Industrial"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "maestro",
+    "money": "$2544.08",
+    "category": "Industrial"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2145.66",
+    "category": "Clothing"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "maestro",
+    "money": "$3446.66",
+    "category": "Music"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2644.28",
+    "category": "Outdoors"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "instapayment",
+    "money": "$2526.54",
+    "category": "Outdoors"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "diners-club-us-ca",
+    "money": "$1470.60",
+    "category": "Grocery"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "mastercard",
+    "money": "$1578.96",
+    "category": "Baby"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$2134.12",
+    "category": "Games"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$726.91",
+    "category": "Jewelery"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "visa-electron",
+    "money": "$2883.74",
+    "category": "Games"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "diners-club-enroute",
+    "money": "$1920.63",
+    "category": "Garden"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$543.03",
+    "category": "Toys"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$795.55",
+    "category": ""
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2748.70",
+    "category": "Home"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$1261.46",
+    "category": "Shoes"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "visa-electron",
+    "money": "$2387.10",
+    "category": "Games"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "maestro",
+    "money": "$2250.46",
+    "category": ""
+  },
+  {
+    "country": "Poland",
+    "credit_card": "mastercard",
+    "money": "$952.71",
+    "category": "Movies"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "bankcard",
+    "money": "$1548.42",
+    "category": ""
+  },
+  {
+    "country": "Canada",
+    "credit_card": "visa-electron",
+    "money": "$2358.70",
+    "category": "Games"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "americanexpress",
+    "money": "$2535.23",
+    "category": "Beauty"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$1525.90",
+    "category": "Movies"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$1630.60",
+    "category": "Shoes"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "americanexpress",
+    "money": "$1131.66",
+    "category": "Sports"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "visa",
+    "money": "$2994.97",
+    "category": "Beauty"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "diners-club-carte-blanche",
+    "money": "$1611.30",
+    "category": "Home"
+  },
+  {
+    "country": "United Kingdom",
+    "credit_card": "diners-club-carte-blanche",
+    "money": "$2285.39",
+    "category": "Games"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "laser",
+    "money": "$3239.41",
+    "category": "Jewelery"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$1347.05",
+    "category": "Health"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$1920.30",
+    "category": "Computers"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$707.08",
+    "category": "Home"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$2080.78",
+    "category": "Tools"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "diners-club-international",
+    "money": "$2174.80",
+    "category": "Beauty"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$225.65",
+    "category": "Baby"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$3444.96",
+    "category": "Health"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "mastercard",
+    "money": "$3195.30",
+    "category": "Sports"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$356.26",
+    "category": "Clothing"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "switch",
+    "money": "$187.30",
+    "category": "Tools"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$1282.53",
+    "category": "Outdoors"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$86.80",
+    "category": "Toys"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$532.88",
+    "category": "Shoes"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$477.40",
+    "category": "Home"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2212.37",
+    "category": "Garden"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2179.93",
+    "category": "Automotive"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "china-unionpay",
+    "money": "$2237.65",
+    "category": "Beauty"
+  },
+  {
+    "country": "Germany",
+    "credit_card": "jcb",
+    "money": "$2858.01",
+    "category": "Movies"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$1350.12",
+    "category": "Computers"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$3184.05",
+    "category": "Sports"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$1574.66",
+    "category": "Music"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "diners-club-carte-blanche",
+    "money": "$1652.29",
+    "category": ""
+  },
+  {
+    "country": "Poland",
+    "credit_card": "americanexpress",
+    "money": "$911.98",
+    "category": "Toys"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$1710.36",
+    "category": "Outdoors"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "maestro",
+    "money": "$2774.15",
+    "category": ""
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$2958.60",
+    "category": "Electronics"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "switch",
+    "money": "$540.30",
+    "category": "Computers"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2964.00",
+    "category": ""
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$1101.12",
+    "category": "Grocery"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "visa-electron",
+    "money": "$3253.76",
+    "category": "Grocery"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2348.39",
+    "category": "Electronics"
+  },
+  {
+    "country": "United Kingdom",
+    "credit_card": "diners-club-enroute",
+    "money": "$1503.66",
+    "category": "Beauty"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "diners-club-enroute",
+    "money": "$2044.81",
+    "category": "Computers"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$2789.01",
+    "category": "Books"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "maestro",
+    "money": "$455.65",
+    "category": "Tools"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "switch",
+    "money": "$3272.78",
+    "category": "Music"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "diners-club-carte-blanche",
+    "money": "$2900.63",
+    "category": "Baby"
+  },
+  {
+    "country": "Germany",
+    "credit_card": "jcb",
+    "money": "$2221.92",
+    "category": "Automotive"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "mastercard",
+    "money": "$892.21",
+    "category": "Industrial"
+  },
+  {
+    "country": "Germany",
+    "credit_card": "jcb",
+    "money": "$2255.54",
+    "category": "Music"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "bankcard",
+    "money": "$689.05",
+    "category": "Books"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "china-unionpay",
+    "money": "$516.18",
+    "category": "Clothing"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "mastercard",
+    "money": "$704.67",
+    "category": "Electronics"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$1962.08",
+    "category": "Clothing"
+  },
+  {
+    "country": "Germany",
+    "credit_card": "china-unionpay",
+    "money": "$2726.10",
+    "category": "Outdoors"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "mastercard",
+    "money": "$2040.94",
+    "category": "Games"
+  },
+  {
+    "country": "Germany",
+    "credit_card": "bankcard",
+    "money": "$1727.94",
+    "category": "Outdoors"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "china-unionpay",
+    "money": "$664.89",
+    "category": "Grocery"
+  },
+  {
+    "country": "United Kingdom",
+    "credit_card": "jcb",
+    "money": "$853.50",
+    "category": "Automotive"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "bankcard",
+    "money": "$2127.15",
+    "category": "Computers"
+  },
+  {
+    "country": "Germany",
+    "credit_card": "visa-electron",
+    "money": "$1018.22",
+    "category": "Games"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "mastercard",
+    "money": "$2037.75",
+    "category": "Computers"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$796.90",
+    "category": "Home"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "visa-electron",
+    "money": "$2240.41",
+    "category": "Clothing"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2085.67",
+    "category": "Toys"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "switch",
+    "money": "$2801.54",
+    "category": "Toys"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$1469.41",
+    "category": "Baby"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$858.54",
+    "category": "Music"
+  },
+  {
+    "country": "United Kingdom",
+    "credit_card": "jcb",
+    "money": "$1966.16",
+    "category": "Games"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "visa-electron",
+    "money": "$878.39",
+    "category": "Movies"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "bankcard",
+    "money": "$1846.97",
+    "category": "Toys"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$1470.67",
+    "category": "Jewelery"
+  },
+  {
+    "country": "Germany",
+    "credit_card": "instapayment",
+    "money": "$749.92",
+    "category": ""
+  },
+  {
+    "country": "Poland",
+    "credit_card": "mastercard",
+    "money": "$2907.35",
+    "category": "Health"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "instapayment",
+    "money": "$1716.65",
+    "category": "Garden"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "instapayment",
+    "money": "$1746.41",
+    "category": "Outdoors"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "diners-club-us-ca",
+    "money": "$3072.66",
+    "category": "Computers"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$1197.23",
+    "category": "Beauty"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$1881.39",
+    "category": "Shoes"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "switch",
+    "money": "$702.89",
+    "category": "Music"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "mastercard",
+    "money": "$310.20",
+    "category": "Industrial"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$3005.46",
+    "category": "Kids"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$3085.34",
+    "category": "Music"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "diners-club-enroute",
+    "money": "$2065.14",
+    "category": "Home"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$879.71",
+    "category": "Outdoors"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "switch",
+    "money": "$2013.48",
+    "category": "Jewelery"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2924.13",
+    "category": "Music"
+  },
+  {
+    "country": "United Kingdom",
+    "credit_card": "jcb",
+    "money": "$2175.28",
+    "category": "Baby"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2068.45",
+    "category": "Movies"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "diners-club-international",
+    "money": "$2975.39",
+    "category": "Health"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2134.86",
+    "category": "Kids"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$1424.27",
+    "category": "Beauty"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$3430.50",
+    "category": "Beauty"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$678.97",
+    "category": "Sports"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$1140.75",
+    "category": "Jewelery"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "americanexpress",
+    "money": "$1453.84",
+    "category": "Garden"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "maestro",
+    "money": "$950.58",
+    "category": "Garden"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "diners-club-enroute",
+    "money": "$486.64",
+    "category": "Computers"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "bankcard",
+    "money": "$1298.59",
+    "category": "Outdoors"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "china-unionpay",
+    "money": "$2125.50",
+    "category": "Sports"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2069.30",
+    "category": "Toys"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$2196.54",
+    "category": "Games"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "china-unionpay",
+    "money": "$1977.72",
+    "category": "Computers"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$896.75",
+    "category": "Sports"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "visa-electron",
+    "money": "$3268.77",
+    "category": "Shoes"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2496.25",
+    "category": "Books"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$771.71",
+    "category": ""
+  },
+  {
+    "country": "Poland",
+    "credit_card": "switch",
+    "money": "$642.37",
+    "category": "Automotive"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$230.38",
+    "category": "Beauty"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "americanexpress",
+    "money": "$2978.28",
+    "category": "Toys"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$3094.26",
+    "category": "Baby"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "mastercard",
+    "money": "$1830.30",
+    "category": "Industrial"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$3356.20",
+    "category": "Outdoors"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "maestro",
+    "money": "$1527.92",
+    "category": "Games"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "mastercard",
+    "money": "$1009.18",
+    "category": "Toys"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$597.64",
+    "category": "Music"
+  },
+  {
+    "country": "United Kingdom",
+    "credit_card": "diners-club-enroute",
+    "money": "$2983.46",
+    "category": ""
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$1160.83",
+    "category": "Outdoors"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$2898.30",
+    "category": "Health"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "diners-club-enroute",
+    "money": "$1139.15",
+    "category": "Shoes"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "bankcard",
+    "money": "$1439.19",
+    "category": "Jewelery"
+  },
+  {
+    "country": "United Kingdom",
+    "credit_card": "jcb",
+    "money": "$3007.72",
+    "category": "Tools"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2641.60",
+    "category": "Jewelery"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "switch",
+    "money": "$3142.59",
+    "category": "Health"
+  },
+  {
+    "country": "United Kingdom",
+    "credit_card": "jcb",
+    "money": "$335.72",
+    "category": "Electronics"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$1735.16",
+    "category": "Jewelery"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$742.34",
+    "category": "Books"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "diners-club-carte-blanche",
+    "money": "$3038.68",
+    "category": "Jewelery"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "diners-club-enroute",
+    "money": "$3221.34",
+    "category": "Electronics"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2578.13",
+    "category": ""
+  },
+  {
+    "country": "Poland",
+    "credit_card": "china-unionpay",
+    "money": "$2335.31",
+    "category": "Sports"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$72.13",
+    "category": "Jewelery"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "americanexpress",
+    "money": "$379.54",
+    "category": "Books"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$1538.56",
+    "category": "Games"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$2830.62",
+    "category": "Music"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$1178.00",
+    "category": "Sports"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "china-unionpay",
+    "money": "$3115.23",
+    "category": "Home"
+  },
+  {
+    "country": "United Kingdom",
+    "credit_card": "maestro",
+    "money": "$3311.48",
+    "category": "Outdoors"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "mastercard",
+    "money": "$253.15",
+    "category": "Electronics"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "diners-club-carte-blanche",
+    "money": "$2682.70",
+    "category": ""
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$49.18",
+    "category": "Jewelery"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "diners-club-carte-blanche",
+    "money": "$204.12",
+    "category": "Health"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$2468.14",
+    "category": "Music"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "mastercard",
+    "money": "$2248.08",
+    "category": ""
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2440.68",
+    "category": "Electronics"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "solo",
+    "money": "$1916.09",
+    "category": "Home"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "americanexpress",
+    "money": "$35.97",
+    "category": "Sports"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "mastercard",
+    "money": "$1678.02",
+    "category": "Sports"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2769.00",
+    "category": "Industrial"
+  },
+  {
+    "country": "Germany",
+    "credit_card": "jcb",
+    "money": "$1791.68",
+    "category": "Automotive"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$946.96",
+    "category": "Outdoors"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$3134.47",
+    "category": "Health"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "mastercard",
+    "money": "$1602.42",
+    "category": "Beauty"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "mastercard",
+    "money": "$1850.90",
+    "category": "Industrial"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "maestro",
+    "money": "$1842.52",
+    "category": "Toys"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "switch",
+    "money": "$2003.05",
+    "category": "Automotive"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "visa",
+    "money": "$1480.42",
+    "category": "Books"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2931.85",
+    "category": "Books"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "maestro",
+    "money": "$357.57",
+    "category": "Games"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "china-unionpay",
+    "money": "$2468.20",
+    "category": "Grocery"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$770.90",
+    "category": "Kids"
+  },
+  {
+    "country": "United Kingdom",
+    "credit_card": "bankcard",
+    "money": "$182.83",
+    "category": "Health"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$1299.92",
+    "category": "Garden"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$3165.71",
+    "category": "Games"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "switch",
+    "money": "$1169.37",
+    "category": "Games"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "diners-club-carte-blanche",
+    "money": "$1432.46",
+    "category": "Electronics"
+  },
+  {
+    "country": "Germany",
+    "credit_card": "jcb",
+    "money": "$746.05",
+    "category": "Beauty"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "americanexpress",
+    "money": "$3360.51",
+    "category": "Movies"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$449.77",
+    "category": "Shoes"
+  },
+  {
+    "country": "United Kingdom",
+    "credit_card": "jcb",
+    "money": "$3024.10",
+    "category": "Computers"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2110.12",
+    "category": "Games"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "switch",
+    "money": "$655.35",
+    "category": "Automotive"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "maestro",
+    "money": "$1313.33",
+    "category": "Outdoors"
+  },
+  {
+    "country": "United Kingdom",
+    "credit_card": "mastercard",
+    "money": "$2380.55",
+    "category": ""
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$2831.84",
+    "category": ""
+  },
+  {
+    "country": "Poland",
+    "credit_card": "diners-club-international",
+    "money": "$467.30",
+    "category": ""
+  },
+  {
+    "country": "Poland",
+    "credit_card": "switch",
+    "money": "$1751.32",
+    "category": ""
+  },
+  {
+    "country": "Poland",
+    "credit_card": "maestro",
+    "money": "$1969.47",
+    "category": "Industrial"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2960.64",
+    "category": ""
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$2182.44",
+    "category": ""
+  },
+  {
+    "country": "Poland",
+    "credit_card": "diners-club-carte-blanche",
+    "money": "$3025.43",
+    "category": ""
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$519.66",
+    "category": "Beauty"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "switch",
+    "money": "$1800.53",
+    "category": "Grocery"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$3025.97",
+    "category": "Beauty"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$2537.03",
+    "category": "Home"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$780.38",
+    "category": "Games"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "diners-club-international",
+    "money": "$964.36",
+    "category": "Jewelery"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2300.45",
+    "category": "Clothing"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "china-unionpay",
+    "money": "$284.30",
+    "category": "Music"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "americanexpress",
+    "money": "$1551.39",
+    "category": "Baby"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2414.73",
+    "category": "Books"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "visa-electron",
+    "money": "$445.49",
+    "category": "Sports"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "maestro",
+    "money": "$2411.74",
+    "category": "Music"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "diners-club-enroute",
+    "money": "$1001.63",
+    "category": "Sports"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "americanexpress",
+    "money": "$1425.29",
+    "category": "Health"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$542.10",
+    "category": "Toys"
+  },
+  {
+    "country": "Germany",
+    "credit_card": "americanexpress",
+    "money": "$2516.31",
+    "category": ""
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$996.43",
+    "category": "Baby"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "maestro",
+    "money": "$2117.94",
+    "category": "Tools"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2326.85",
+    "category": "Beauty"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "switch",
+    "money": "$732.50",
+    "category": "Music"
+  },
+  {
+    "country": "Germany",
+    "credit_card": "diners-club-us-ca",
+    "money": "$227.89",
+    "category": ""
+  },
+  {
+    "country": "Poland",
+    "credit_card": "maestro",
+    "money": "$1158.52",
+    "category": "Books"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$1627.53",
+    "category": "Games"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$1565.01",
+    "category": "Grocery"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$1376.29",
+    "category": ""
+  },
+  {
+    "country": "Poland",
+    "credit_card": "maestro",
+    "money": "$12.12",
+    "category": "Baby"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$3309.79",
+    "category": "Sports"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "mastercard",
+    "money": "$2401.63",
+    "category": "Industrial"
+  },
+  {
+    "country": "Germany",
+    "credit_card": "jcb",
+    "money": "$1923.42",
+    "category": "Clothing"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$1352.57",
+    "category": "Kids"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "laser",
+    "money": "$2199.96",
+    "category": "Outdoors"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2922.63",
+    "category": "Garden"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "americanexpress",
+    "money": "$473.20",
+    "category": "Shoes"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$55.44",
+    "category": "Computers"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "diners-club-us-ca",
+    "money": "$311.34",
+    "category": "Tools"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$3408.01",
+    "category": "Baby"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "visa-electron",
+    "money": "$406.47",
+    "category": ""
+  },
+  {
+    "country": "Canada",
+    "credit_card": "maestro",
+    "money": "$3147.27",
+    "category": "Kids"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "mastercard",
+    "money": "$723.15",
+    "category": "Electronics"
+  },
+  {
+    "country": "United Kingdom",
+    "credit_card": "americanexpress",
+    "money": "$311.98",
+    "category": "Toys"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "mastercard",
+    "money": "$2508.87",
+    "category": "Beauty"
+  },
+  {
+    "country": "Germany",
+    "credit_card": "jcb",
+    "money": "$497.33",
+    "category": "Jewelery"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2465.43",
+    "category": "Games"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "china-unionpay",
+    "money": "$2324.11",
+    "category": ""
+  },
+  {
+    "country": "Poland",
+    "credit_card": "bankcard",
+    "money": "$2085.16",
+    "category": "Automotive"
+  },
+  {
+    "country": "Germany",
+    "credit_card": "laser",
+    "money": "$528.04",
+    "category": "Toys"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "visa-electron",
+    "money": "$2799.59",
+    "category": "Outdoors"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "maestro",
+    "money": "$3245.37",
+    "category": "Toys"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "visa-electron",
+    "money": "$1134.99",
+    "category": "Automotive"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$631.24",
+    "category": "Outdoors"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$3271.65",
+    "category": ""
+  },
+  {
+    "country": "Canada",
+    "credit_card": "visa",
+    "money": "$1317.11",
+    "category": "Electronics"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "diners-club-enroute",
+    "money": "$2281.17",
+    "category": "Games"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$545.56",
+    "category": "Home"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$1918.82",
+    "category": "Shoes"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$3399.74",
+    "category": "Toys"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "mastercard",
+    "money": "$681.51",
+    "category": "Shoes"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2581.98",
+    "category": "Jewelery"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "diners-club-enroute",
+    "money": "$2510.40",
+    "category": "Books"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$1253.90",
+    "category": "Jewelery"
+  },
+  {
+    "country": "Germany",
+    "credit_card": "jcb",
+    "money": "$830.51",
+    "category": "Movies"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2400.98",
+    "category": "Health"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "switch",
+    "money": "$3237.95",
+    "category": "Games"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "mastercard",
+    "money": "$1523.50",
+    "category": "Electronics"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "diners-club-us-ca",
+    "money": "$566.13",
+    "category": "Tools"
+  },
+  {
+    "country": "Germany",
+    "credit_card": "maestro",
+    "money": "$3301.18",
+    "category": "Tools"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "solo",
+    "money": "$2815.54",
+    "category": "Beauty"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "maestro",
+    "money": "$2991.73",
+    "category": "Health"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "instapayment",
+    "money": "$2882.86",
+    "category": "Garden"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "china-unionpay",
+    "money": "$679.29",
+    "category": "Home"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$932.23",
+    "category": "Toys"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "switch",
+    "money": "$1456.25",
+    "category": "Automotive"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$3164.46",
+    "category": "Beauty"
+  },
+  {
+    "country": "Canada",
+    "credit_card": "jcb",
+    "money": "$1550.26",
+    "category": "Shoes"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "mastercard",
+    "money": "$2312.12",
+    "category": "Automotive"
+  },
+  {
+    "country": "Poland",
+    "credit_card": "jcb",
+    "money": "$2946.87",
+    "category": "Baby"
+  },
+  {
+    "country": "United Kingdom",
+    "credit_card": "jcb",
+    "money": "$3118.21",
+    "category": "Jewelery"
+  }
+]
