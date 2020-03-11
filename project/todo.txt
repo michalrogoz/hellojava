@@ -6,3 +6,5 @@ Nowe pole mowiace o tym czy wydatek był duży
 
 Raport ogólny:
 Grupa po kategoriach i suma wydatków
+Warto pomyśleć o mapie ale nie na początku
+//Map<Category,List<Double> czyli mapa kategorii na wydatki

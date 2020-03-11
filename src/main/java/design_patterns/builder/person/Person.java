@@ -6,4 +6,6 @@ public class Person {
     boolean isMan;
 
     //TODO zrobic buildera
+
+    //Enumy
 }
