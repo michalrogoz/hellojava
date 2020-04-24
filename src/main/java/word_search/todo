@@ -1,0 +1,50 @@
+W zadaniu z3 zajmiemy się problemem przeszukiwania zbiorów złożonych z ciągów znaków, którego rzeczywistym przykładem
+jest wyszukiwanie wyrazów w tekście, np. w celu ich podmiany na inne.
+
+Dane wejściowe mają format pliku tekstowego i zawarte są w pliku z3data1.txt.
+Dla uproszczenia można przyjąć, że jedynym separatorem wyrazów będzie znak spacji, nie będą stosowane żadne znaki interpunkcyjne
+(przecinek, kropka, średnik, myślnik, etc.), a wyrazy zapisywane będą wyłącznie z użyciem małych liter.
+
+Należy stworzyć 2 metody wyszukujące w zbiorze wejściowym zadany ciąg znaków niezawierający spacji,
+czyli pełny pojedynczy wyraz, i podające położenie jego pierwszego wystąpienia, liczone jako numer porządkowy wyrazu w zbiorze.
+
+Przykładowo, dla zbioru w postaci:
+ala ma kota a kot ma alę
+
+wyszukiwanie wyrazu "ala" powinno zwrócić wartość 1, wyrazu "kot" - wartość 5, a wyrazu "ola" - wartość 0 albo "false",
+sygnalizującą, że szukanego wyrazu w zbiorze wejściowym nie ma.
+
+Pierwsza z metod ma być prostym wyszukiwaniem sekwencyjnym, które będzie przeglądało kolejne elementy tablicy przechowującej
+kolejne wyodrębnione z pliku wejściowego wyrazy w poszukiwaniu pełnego dopasowania z wyrazem podanym jako klucz wyszukiwania.
+
+Metoda druga ma być implementacją algorytmu wyszukiwania binarnego (binary search),
+który wymaga wstępnego posortowania struktury danych w sposób monotoniczny, by następnie,
+stosując metodę podziału zbioru na coraz mniejsze podzbiory, w krótkim czasie ustalić czy,
+a jeśli tak, to gdzie, znajduje się poszukiwany element.
+
+Do posortowania zbioru należy użyć jednego z algorytmów opracowanych w zadaniach z1 i z2 (cocktail sort lub comb sort)
+(po wprowadzeniu doń poprawek, jeśli z przesłanych przez prowadzącego uwag wynika, że takowe są potrzebne, by zwiększyć jego szybkość).
+Sortowanie należy przeprowadzić z wykorzystaniem (potencjalnie) unikalnych wartości liczbowych wyznaczonych dla każdego wyrazu zbioru,
+zwanych skrótami (ang. hash lub digest). Do ich generowania można wykorzystać standardową funkcję haszującą hashCode(),
+udostępnianą przez obiekt String i zwracającą wartość typu int, lub własną implementację,
+gdyby pojawił się problem zbyt dużej liczby kolizji, czyli generowania przez funkcję haszującą tych samych skrótów dla różnych argumentów (wyrazów).
+W tym drugim przypadku proszę o nadpisanie metody standardowej.
+
+Jak z powyższego wynika, optymalną strukturą danych będzie tablica przechowująca obiekty,
+z których każdy będzie przechowywał wyraz w postaci ciągu znaków, jego pozycję w przeszukiwanym tekście oraz jego wartość skrótu,
+używaną do sortowania i porównań.
+
+Podobnie jak w zadaniu z2, proszę dokonać porównania wydajności obu algorytmów wyszukiwania,
+za jej miarę przyjmując liczbę porównań klucza wyszukiwania z elementami zbioru zawartego w pliku z3data1.txt,
+konieczną do znalezienia pierwszego wystąpienia poszukiwanego obiektu lub stwierdzenia,
+że zbiór wejściowy go nie zawiera. Wyrazy poszukiwane to:
+mars
+ogilvy
+sky
+meteor
+
+Rozwiązanie zadania stanowi:
+- informacja o położeniu pierwszego wystąpienia każdego z podanych wyżej wyrazów w przeszukiwanym tekście,
+- zestawienie metryk wydajności uzyskanych dla obu algorytmów wyszukiwania z użyciem powyższych kluczy wyszukiwania,
+wykonane analogicznie jak w zadaniu z2 i opatrzone komentarzem własnym,
+- pliki źródłowe .java programu.
