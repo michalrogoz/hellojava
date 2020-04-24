@@ -1,7 +1,0 @@
-1. git commit
-2. pull push merge
-3. gitignore -> zrob zeby ignorowac .class
-4. pull request
-5. branch
-
-6. stworzyc na githubie nowe repo i wypchnac tam nowy projekt lokalny
