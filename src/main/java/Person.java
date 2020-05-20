@@ -1,3 +1,5 @@
+import java.math.BigDecimal;
+import java.math.RoundingMode;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -7,6 +9,13 @@ public class Person {
     String last_name;
     List<Double> salary;
 
+    public Person() {
+    }
+
+    public Person(String first_name, String last_name) {
+        this.first_name = first_name;
+        this.last_name = last_name;
+    }
 
     //Zaokrąglanie double do 2 miejsc po przecinku
     public double getYearSalary() {
@@ -17,18 +26,42 @@ public class Person {
         return sum;
     }
 
-    //średnia pensja
+    public double getAverageSalary() {
+        double average = getYearSalary() / salary.size();
+        return round(average);
+    }
 
-    //max pensja
+    public double getMaxSalary() {
+        double maxSalary = salary.get(0);
+        for (double gms : salary) {
+            if (gms > maxSalary) {
+                maxSalary = gms;
+            }
+        }
+        return round(maxSalary);
+    }
 
-    //min pensja
+    public double getMinSalary() {
+        double minSalary = salary.get(0);
 
-//to ładniejesze
+        for (double gms : salary) {
+            if (gms < minSalary) {
+                minSalary = gms;
+            }
+        }
+        return round(minSalary);
+    }
+
     @Override
     public String toString() {
-        return  "id=" + id +
-                ", first_name='" + first_name + '\'' +
-                ", last_name='" + last_name;
+        return ("\nid: " + id + "\tFirs Name: " + first_name + "\tLast Name: " + last_name + "\nRoczne wynagrodzenie: " + getYearSalary()
+                + "\tSrednie wynagrodzenie: " + getAverageSalary() + "\tnajwyższa wypłata miesieczna: " + getMaxSalary()
+                + "\tnajniższa wypłata miesieczna: " + getMinSalary());
+    }
 
+    private double round(double number) {
+        return new BigDecimal(number)
+                .setScale(2, RoundingMode.HALF_UP)
+                .doubleValue();
     }
 }
