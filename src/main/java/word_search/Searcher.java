@@ -3,7 +3,7 @@ package word_search;
 import java.util.Arrays;
 import java.util.Optional;
 
-public class Searcher {
+public class Searcher implements GenericSearcher {
     final Word[] words;
 
     public Searcher(Word[] words) {
@@ -17,6 +17,15 @@ public class Searcher {
             }
         }
         return Optional.empty();
+    }
+
+    public String naiveSearch(String word, boolean parsed) {
+        return parseResult(naiveSearch(word));
+    }
+
+    private static String parseResult(Optional<Integer> i) {
+        return i.map(String::valueOf)
+                .orElse("Not found");
     }
 
     public Optional<Integer> binarySearch(String word) {
