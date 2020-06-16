@@ -1,0 +1,1 @@
+simple_projects.leki.Lekarstwo{nazwa='APAP', producet='PROD', cena=10.0, skladniki=[simple_projects.leki.Skladnik{nazwa='cukier', zawartosc=400}, simple_projects.leki.Skladnik{nazwa='cosTam', zawartosc=100}], refundacja=0.0, naRecepte=false}
