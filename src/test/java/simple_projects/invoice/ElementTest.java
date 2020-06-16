@@ -15,7 +15,5 @@ public class ElementTest {
         double sum = element.obliczWartosc();
 
         assertEquals(sum,14.97);
-
     }
-
 }
