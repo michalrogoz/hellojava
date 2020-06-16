@@ -1,4 +1,4 @@
-package comparators;
+package language_parts.comparators;
 
 public class CarByNameComparator extends CarComparator {
 

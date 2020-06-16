@@ -1,4 +1,4 @@
-package word_search;
+package simple_projects.word_search;
 
 import java.io.IOException;
 import java.nio.file.Files;

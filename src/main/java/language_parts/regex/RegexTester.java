@@ -1,4 +1,4 @@
-package regex;
+package language_parts.regex;
 
 import java.util.ArrayList;
 import java.util.List;

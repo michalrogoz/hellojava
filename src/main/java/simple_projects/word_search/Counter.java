@@ -1,4 +1,4 @@
-package word_search;
+package simple_projects.word_search;
 
 import java.util.logging.Logger;
 

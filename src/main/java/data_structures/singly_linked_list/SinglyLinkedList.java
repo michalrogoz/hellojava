@@ -1,4 +1,4 @@
-package singly_linked_list;
+package data_structures.singly_linked_list;
 
 public class SinglyLinkedList {
 
