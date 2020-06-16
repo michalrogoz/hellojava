@@ -1,4 +1,4 @@
-package fizzbuzz;
+package hello_world.fizzbuzz;
 
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
@@ -6,7 +6,7 @@ import org.junit.jupiter.params.provider.MethodSource;
 
 import java.util.stream.Stream;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class FizzBuzzTest {
     static Stream<Arguments> input() {
@@ -15,8 +15,8 @@ class FizzBuzzTest {
                 Arguments.of(2, "2"),
                 Arguments.of(3, "Fizz"),
                 Arguments.of(5, "Buzz"),
-                Arguments.of(15, "p1.FizzBuzz"),
-                Arguments.of(30, "p1.FizzBuzz"),
+                Arguments.of(15, "FizzBuzz"),
+                Arguments.of(30, "FizzBuzz"),
                 Arguments.of(33, "Fizz"),
                 Arguments.of(55, "Buzz"));
     }

@@ -1,4 +1,4 @@
-package fizzbuzz;
+package hello_world.fizzbuzz;
 
 public class FizzBuzz {
     public String play(int number) {
