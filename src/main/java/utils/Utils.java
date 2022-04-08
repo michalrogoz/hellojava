@@ -16,6 +16,9 @@ public class Utils {
         }
     }
 
+    public static void testUtil() {
+        System.out.printf("");
+    }
 
 
 }
